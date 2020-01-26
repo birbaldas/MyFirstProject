@@ -16,5 +16,6 @@ object prog1 {
 
     // Displays the content of the DataFrame to stdout
     df.show()
+    df.printSchema()
   }
 }
